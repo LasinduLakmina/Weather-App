@@ -41,7 +41,7 @@ pip install PyQt6 matplotlib requests
 3. Run the app:
 
    ```bash
-   python weather_app.py
+   python app.py
    ```
 
 ## How It Works
